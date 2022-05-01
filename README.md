@@ -1,5 +1,5 @@
 # A simple RestAPI node app to dockerize
-This is a small RestAPI node app which will be executed from a docker container. Please follow the below steps.
+This is a small RestAPI node app which will be executed from a docker container. Its uses a free API available on https://randomuser.me/api. Please follow the below steps.
 
 ## Requirements
 - Install [Nodejs](https://nodejs.org)
